@@ -1,0 +1,14 @@
+null,test_image,epoch,train_name,file_id,imshow,synthetic,save_image,save_result,input_channels,deepsupervision,residual,num_of_layers,features,rain_type
+-1,0,40,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,1,40,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,2,40,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,3,40,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,0,80,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,1,80,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,2,80,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,3,80,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,0,100,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,1,100,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,2,100,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,3,100,unetgan1,1,0,0,1,1,3,1,1,17,64,1
+-1,0,100,unetgan1,1,0,0,1,1,3,1,1,17,64,1
